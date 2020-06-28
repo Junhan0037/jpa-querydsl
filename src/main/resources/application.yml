@@ -12,7 +12,7 @@ spring:
       hibernate:
         #        show_sql: true
         format_sql: true
-        use_sql_comments: tru # JPQL 보기
+        use_sql_comments: true # JPQL 보기
 #        default_batch_fetch_size: 100 # 100~1000 권장
 
 logging.level:
