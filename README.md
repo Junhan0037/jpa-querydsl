@@ -15,5 +15,7 @@ Querydsl은 자바 언어의 한계를 넘어서, **쿼리를 문자가 아니�
 #### 1. [Querydsl 설정](https://www.notion.so/121c4a29ffa742a6b144621a93ef5ae3)
 #### 2. [기본 문법](https://www.notion.so/ad29fbf87fe248a7bc1a3af09138273d)
 #### 3. [중급 문법](https://www.notion.so/285c6c1ebba341209a7b842c379a1b71)
+#### 4. [실무 활용 - 순수 JPA와 Querydsl](https://www.notion.so/JPA-Querydsl-af32aa5a13a64f26bcda0c3b5bec5458)
+#### 5. [실무 활용 - 스프링 데이터 JPA와 Querydsl](https://www.notion.so/JPA-Querydsl-8da79ae93c2442e5a96f70aa966c3ac7)
 
 해당 repo는 [실전! Querydsl - 김영한](https://www.inflearn.com/course/Querydsl-%EC%8B%A4%EC%A0%84) 해당 강의를 듣고 정리한 REPO 입니다.
